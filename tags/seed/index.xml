@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seed on Freebiespic</title><link>https://freebiespic.com/tags/seed/</link><description>Recent content in Seed on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2016 00:30:51 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/seed/index.xml" rel="self" type="application/rss+xml"/><item><title>Two Guavas Fruit with Leaf</title><link>https://freebiespic.com/photos/two-guavas-fruit-with-leaf/</link><pubDate>Sun, 16 Oct 2016 00:30:51 +0000</pubDate><guid>https://freebiespic.com/photos/two-guavas-fruit-with-leaf/</guid><description>Two guavas fruit with leaf freebies picture.</description></item><item><title>Close Up Slices Guava</title><link>https://freebiespic.com/photos/close-up-slices-guava/</link><pubDate>Sun, 16 Oct 2016 00:17:27 +0000</pubDate><guid>https://freebiespic.com/photos/close-up-slices-guava/</guid><description>Close up slice guava fruits free stock photo</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seed on Freebiespic</title>
+    <link>https://freebiespic.com/tags/seed/</link>
+    <description>Recent content in Seed on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2016 00:30:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/seed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Two Guavas Fruit with Leaf</title>
+      <link>https://freebiespic.com/photos/two-guavas-fruit-with-leaf/</link>
+      <pubDate>Sun, 16 Oct 2016 00:30:51 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/two-guavas-fruit-with-leaf/</guid>
+      <description>Two guavas fruit with leaf freebies picture.</description>
+    </item>
+    
+    <item>
+      <title>Close Up Slices Guava</title>
+      <link>https://freebiespic.com/photos/close-up-slices-guava/</link>
+      <pubDate>Sun, 16 Oct 2016 00:17:27 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/close-up-slices-guava/</guid>
+      <description>Close up slice guava fruits free stock photo</description>
+    </item>
+    
+  </channel>
+</rss>

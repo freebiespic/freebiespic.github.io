@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blooms on Freebiespic</title><link>https://freebiespic.com/tags/blooms/</link><description>Recent content in Blooms on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2017 19:02:45 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/blooms/index.xml" rel="self" type="application/rss+xml"/><item><title>Arabica coffee flowers</title><link>https://freebiespic.com/photos/arabica-coffee-flowers/</link><pubDate>Mon, 26 Jun 2017 19:02:45 +0000</pubDate><guid>https://freebiespic.com/photos/arabica-coffee-flowers/</guid><description>Arabica coffee flowers in the tree free stock photo.</description></item><item><title>White blooms of arabica coffee</title><link>https://freebiespic.com/photos/white-blooms-of-arabica-coffee/</link><pubDate>Mon, 26 Jun 2017 16:29:02 +0000</pubDate><guid>https://freebiespic.com/photos/white-blooms-of-arabica-coffee/</guid><description>White blooms of arabica coffee tree free stock photo. White blooms of arabica coffee image perfect asset for your creative project multi purposes.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blooms on Freebiespic</title>
+    <link>https://freebiespic.com/tags/blooms/</link>
+    <description>Recent content in Blooms on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 19:02:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/blooms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arabica coffee flowers</title>
+      <link>https://freebiespic.com/photos/arabica-coffee-flowers/</link>
+      <pubDate>Mon, 26 Jun 2017 19:02:45 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/arabica-coffee-flowers/</guid>
+      <description>Arabica coffee flowers in the tree free stock photo.</description>
+    </item>
+    
+    <item>
+      <title>White blooms of arabica coffee</title>
+      <link>https://freebiespic.com/photos/white-blooms-of-arabica-coffee/</link>
+      <pubDate>Mon, 26 Jun 2017 16:29:02 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/white-blooms-of-arabica-coffee/</guid>
+      <description>White blooms of arabica coffee tree free stock photo. White blooms of arabica coffee image perfect asset for your creative project multi purposes.</description>
+    </item>
+    
+  </channel>
+</rss>

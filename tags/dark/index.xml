@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dark on Freebiespic</title><link>https://freebiespic.com/tags/dark/</link><description>Recent content in Dark on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Dec 2016 02:00:17 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/dark/index.xml" rel="self" type="application/rss+xml"/><item><title>Single app icon blurred background</title><link>https://freebiespic.com/photos/single-app-icon-blurred-background/</link><pubDate>Wed, 28 Dec 2016 02:00:17 +0000</pubDate><guid>https://freebiespic.com/photos/single-app-icon-blurred-background/</guid><description>Single app icon blurred background. Abstract texture background and empty template with space for text.</description></item><item><title>Bees in The Hands of a Beekeeper</title><link>https://freebiespic.com/photos/bees-in-the-hands-of-a-beekeeper/</link><pubDate>Thu, 03 Nov 2016 00:55:06 +0000</pubDate><guid>https://freebiespic.com/photos/bees-in-the-hands-of-a-beekeeper/</guid><description>Bees in the hands of a beekeeper free stock photo.</description></item><item><title>Red Rose in The Dark</title><link>https://freebiespic.com/photos/red-rose-in-the-dark/</link><pubDate>Sat, 22 Oct 2016 14:31:44 +0000</pubDate><guid>https://freebiespic.com/photos/red-rose-in-the-dark/</guid><description>Red rose in the dark freebies picture and high resolution photo.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark on Freebiespic</title>
+    <link>https://freebiespic.com/tags/dark/</link>
+    <description>Recent content in Dark on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2016 02:00:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/dark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single app icon blurred background</title>
+      <link>https://freebiespic.com/photos/single-app-icon-blurred-background/</link>
+      <pubDate>Wed, 28 Dec 2016 02:00:17 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/single-app-icon-blurred-background/</guid>
+      <description>Single app icon blurred background. Abstract texture background and empty template with space for text.</description>
+    </item>
+    
+    <item>
+      <title>Bees in The Hands of a Beekeeper</title>
+      <link>https://freebiespic.com/photos/bees-in-the-hands-of-a-beekeeper/</link>
+      <pubDate>Thu, 03 Nov 2016 00:55:06 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/bees-in-the-hands-of-a-beekeeper/</guid>
+      <description>Bees in the hands of a beekeeper free stock photo.</description>
+    </item>
+    
+    <item>
+      <title>Red Rose in The Dark</title>
+      <link>https://freebiespic.com/photos/red-rose-in-the-dark/</link>
+      <pubDate>Sat, 22 Oct 2016 14:31:44 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/red-rose-in-the-dark/</guid>
+      <description>Red rose in the dark freebies picture and high resolution photo.</description>
+    </item>
+    
+  </channel>
+</rss>

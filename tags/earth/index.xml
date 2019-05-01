@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Earth on Freebiespic</title><link>https://freebiespic.com/tags/earth/</link><description>Recent content in Earth on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2017 09:00:32 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/earth/index.xml" rel="self" type="application/rss+xml"/><item><title>Save our earth signpost on a tree</title><link>https://freebiespic.com/photos/save-our-earth-signpost-on-a-tree/</link><pubDate>Sat, 24 Jun 2017 09:00:32 +0000</pubDate><guid>https://freebiespic.com/photos/save-our-earth-signpost-on-a-tree/</guid><description>Save our earth signpost on a tree. This signpost combat global warming by absorbing carbon dioxide and producing oxygen, retain water, contribute to soil health and cool overheated urban areas.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth on Freebiespic</title>
+    <link>https://freebiespic.com/tags/earth/</link>
+    <description>Recent content in Earth on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2017 09:00:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/earth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Save our earth signpost on a tree</title>
+      <link>https://freebiespic.com/photos/save-our-earth-signpost-on-a-tree/</link>
+      <pubDate>Sat, 24 Jun 2017 09:00:32 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/save-our-earth-signpost-on-a-tree/</guid>
+      <description>Save our earth signpost on a tree. This signpost combat global warming by absorbing carbon dioxide and producing oxygen, retain water, contribute to soil health and cool overheated urban areas.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Travel on Freebiespic</title><link>https://freebiespic.com/tags/travel/</link><description>Recent content in Travel on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Jun 2017 13:00:18 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/travel/index.xml" rel="self" type="application/rss+xml"/><item><title>Handsome man relaxing in a hammock</title><link>https://freebiespic.com/photos/handsome-man-relaxing-in-a-hammock/</link><pubDate>Sat, 24 Jun 2017 13:00:18 +0000</pubDate><guid>https://freebiespic.com/photos/handsome-man-relaxing-in-a-hammock/</guid><description>Handsome man with sunglasses relaxing in a hammock. Handsome man relaxing in a hammock free image with background of tropical forest.</description></item><item><title>Asian kid playing in the garden</title><link>https://freebiespic.com/photos/asian-kid-playing-garden/</link><pubDate>Thu, 19 Jan 2017 09:28:35 +0000</pubDate><guid>https://freebiespic.com/photos/asian-kid-playing-garden/</guid><description>Asian kid playing in the garden. Asian kid playing in the garden free stock photo, picture.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Freebiespic</title>
+    <link>https://freebiespic.com/tags/travel/</link>
+    <description>Recent content in Travel on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2017 13:00:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handsome man relaxing in a hammock</title>
+      <link>https://freebiespic.com/photos/handsome-man-relaxing-in-a-hammock/</link>
+      <pubDate>Sat, 24 Jun 2017 13:00:18 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/handsome-man-relaxing-in-a-hammock/</guid>
+      <description>Handsome man with sunglasses relaxing in a hammock. Handsome man relaxing in a hammock free image with background of tropical forest.</description>
+    </item>
+    
+    <item>
+      <title>Asian kid playing in the garden</title>
+      <link>https://freebiespic.com/photos/asian-kid-playing-garden/</link>
+      <pubDate>Thu, 19 Jan 2017 09:28:35 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/asian-kid-playing-garden/</guid>
+      <description>Asian kid playing in the garden. Asian kid playing in the garden free stock photo, picture.</description>
+    </item>
+    
+  </channel>
+</rss>

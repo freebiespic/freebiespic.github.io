@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hobby on Freebiespic</title><link>https://freebiespic.com/tags/hobby/</link><description>Recent content in Hobby on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2016 04:44:02 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/hobby/index.xml" rel="self" type="application/rss+xml"/><item><title>The Asian Yellow Cat</title><link>https://freebiespic.com/photos/the-asian-yellow-cat/</link><pubDate>Thu, 20 Oct 2016 04:44:02 +0000</pubDate><guid>https://freebiespic.com/photos/the-asian-yellow-cat/</guid><description>The asian yellow cat freebies picture.</description></item><item><title>The Yellow Cat</title><link>https://freebiespic.com/photos/the-yellow-cat/</link><pubDate>Thu, 20 Oct 2016 04:39:36 +0000</pubDate><guid>https://freebiespic.com/photos/the-yellow-cat/</guid><description>The yellow cat freebies picture.</description></item><item><title>Mumun The Yellow Cat</title><link>https://freebiespic.com/photos/mumun-the-yellow-cat/</link><pubDate>Thu, 20 Oct 2016 04:34:33 +0000</pubDate><guid>https://freebiespic.com/photos/mumun-the-yellow-cat/</guid><description>The yellow cat free stock photos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hobby on Freebiespic</title>
+    <link>https://freebiespic.com/tags/hobby/</link>
+    <description>Recent content in Hobby on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Oct 2016 04:44:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/hobby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Asian Yellow Cat</title>
+      <link>https://freebiespic.com/photos/the-asian-yellow-cat/</link>
+      <pubDate>Thu, 20 Oct 2016 04:44:02 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/the-asian-yellow-cat/</guid>
+      <description>The asian yellow cat freebies picture.</description>
+    </item>
+    
+    <item>
+      <title>The Yellow Cat</title>
+      <link>https://freebiespic.com/photos/the-yellow-cat/</link>
+      <pubDate>Thu, 20 Oct 2016 04:39:36 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/the-yellow-cat/</guid>
+      <description>The yellow cat freebies picture.</description>
+    </item>
+    
+    <item>
+      <title>Mumun The Yellow Cat</title>
+      <link>https://freebiespic.com/photos/mumun-the-yellow-cat/</link>
+      <pubDate>Thu, 20 Oct 2016 04:34:33 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/mumun-the-yellow-cat/</guid>
+      <description>The yellow cat free stock photos.</description>
+    </item>
+    
+  </channel>
+</rss>

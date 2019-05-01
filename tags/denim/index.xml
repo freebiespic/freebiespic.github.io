@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Denim on Freebiespic</title><link>https://freebiespic.com/tags/denim/</link><description>Recent content in Denim on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2016 07:49:30 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/denim/index.xml" rel="self" type="application/rss+xml"/><item><title>Kids Shoes Picture</title><link>https://freebiespic.com/photos/kids-shoes-picture/</link><pubDate>Sun, 17 Jul 2016 07:49:30 +0000</pubDate><guid>https://freebiespic.com/photos/kids-shoes-picture/</guid><description>Kids shoes freebies picture.</description></item><item><title>Kids Slippers Picture</title><link>https://freebiespic.com/photos/kids-slippers-picture/</link><pubDate>Sun, 17 Jul 2016 07:33:08 +0000</pubDate><guid>https://freebiespic.com/photos/kids-slippers-picture/</guid><description>Kids slippers picture and high resolution images.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denim on Freebiespic</title>
+    <link>https://freebiespic.com/tags/denim/</link>
+    <description>Recent content in Denim on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2016 07:49:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/denim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kids Shoes Picture</title>
+      <link>https://freebiespic.com/photos/kids-shoes-picture/</link>
+      <pubDate>Sun, 17 Jul 2016 07:49:30 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/kids-shoes-picture/</guid>
+      <description>Kids shoes freebies picture.</description>
+    </item>
+    
+    <item>
+      <title>Kids Slippers Picture</title>
+      <link>https://freebiespic.com/photos/kids-slippers-picture/</link>
+      <pubDate>Sun, 17 Jul 2016 07:33:08 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/kids-slippers-picture/</guid>
+      <description>Kids slippers picture and high resolution images.</description>
+    </item>
+    
+  </channel>
+</rss>

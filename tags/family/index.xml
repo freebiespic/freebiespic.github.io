@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Family on Freebiespic</title><link>https://freebiespic.com/tags/family/</link><description>Recent content in Family on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2016 01:21:08 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/family/index.xml" rel="self" type="application/rss+xml"/><item><title>Family Shopping in Supermarket</title><link>https://freebiespic.com/photos/family-shopping-in-supermarket/</link><pubDate>Tue, 05 Jul 2016 01:21:08 +0000</pubDate><guid>https://freebiespic.com/photos/family-shopping-in-supermarket/</guid><description>Asian family grocery shopping in supermarket blog stock photo.</description></item><item><title>Family Grocery Shopping</title><link>https://freebiespic.com/photos/family-grocery-shopping/</link><pubDate>Tue, 05 Jul 2016 01:07:43 +0000</pubDate><guid>https://freebiespic.com/photos/family-grocery-shopping/</guid><description>Asian family grocery shopping in supermarket picture.</description></item><item><title>Female Shampoo Shopping</title><link>https://freebiespic.com/photos/female-shampoo-shopping/</link><pubDate>Tue, 05 Jul 2016 00:59:32 +0000</pubDate><guid>https://freebiespic.com/photos/female-shampoo-shopping/</guid><description>Female Shampoo Shopping in supermarket stock picture.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Family on Freebiespic</title>
+    <link>https://freebiespic.com/tags/family/</link>
+    <description>Recent content in Family on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2016 01:21:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Family Shopping in Supermarket</title>
+      <link>https://freebiespic.com/photos/family-shopping-in-supermarket/</link>
+      <pubDate>Tue, 05 Jul 2016 01:21:08 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/family-shopping-in-supermarket/</guid>
+      <description>Asian family grocery shopping in supermarket blog stock photo.</description>
+    </item>
+    
+    <item>
+      <title>Family Grocery Shopping</title>
+      <link>https://freebiespic.com/photos/family-grocery-shopping/</link>
+      <pubDate>Tue, 05 Jul 2016 01:07:43 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/family-grocery-shopping/</guid>
+      <description>Asian family grocery shopping in supermarket picture.</description>
+    </item>
+    
+    <item>
+      <title>Female Shampoo Shopping</title>
+      <link>https://freebiespic.com/photos/female-shampoo-shopping/</link>
+      <pubDate>Tue, 05 Jul 2016 00:59:32 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/female-shampoo-shopping/</guid>
+      <description>Female Shampoo Shopping in supermarket stock picture.</description>
+    </item>
+    
+  </channel>
+</rss>

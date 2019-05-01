@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>One on Freebiespic</title><link>https://freebiespic.com/tags/one/</link><description>Recent content in One on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2017 05:05:33 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/one/index.xml" rel="self" type="application/rss+xml"/><item><title>One red cherries on the branch</title><link>https://freebiespic.com/photos/one-red-cherries-on-the-branch/</link><pubDate>Fri, 23 Jun 2017 05:05:33 +0000</pubDate><guid>https://freebiespic.com/photos/one-red-cherries-on-the-branch/</guid><description>One red cherries on the branch with a blurry background. This photo is released under CC BY, this license lets others distribute and build upon your work, event commercially.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>One on Freebiespic</title>
+    <link>https://freebiespic.com/tags/one/</link>
+    <description>Recent content in One on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jun 2017 05:05:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One red cherries on the branch</title>
+      <link>https://freebiespic.com/photos/one-red-cherries-on-the-branch/</link>
+      <pubDate>Fri, 23 Jun 2017 05:05:33 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/one-red-cherries-on-the-branch/</guid>
+      <description>One red cherries on the branch with a blurry background. This photo is released under CC BY, this license lets others distribute and build upon your work, event commercially.</description>
+    </item>
+    
+  </channel>
+</rss>

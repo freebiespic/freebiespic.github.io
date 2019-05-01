@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Caffein on Freebiespic</title><link>https://freebiespic.com/tags/caffein/</link><description>Recent content in Caffein on Freebiespic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 01:57:42 +0000</lastBuildDate><atom:link href="https://freebiespic.com/tags/caffein/index.xml" rel="self" type="application/rss+xml"/><item><title>Fresh Coffee Fruits</title><link>https://freebiespic.com/photos/fresh-coffee-fruits/</link><pubDate>Tue, 19 Jul 2016 01:57:42 +0000</pubDate><guid>https://freebiespic.com/photos/fresh-coffee-fruits/</guid><description>Fresh coffee fruit freebies picture.</description></item><item><title>Robusta Coffee Fruit</title><link>https://freebiespic.com/photos/robusta-coffee-fruit/</link><pubDate>Mon, 18 Jul 2016 11:12:02 +0000</pubDate><guid>https://freebiespic.com/photos/robusta-coffee-fruit/</guid><description>Robusta coffee fruit freebies picture andhigh resolution image.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caffein on Freebiespic</title>
+    <link>https://freebiespic.com/tags/caffein/</link>
+    <description>Recent content in Caffein on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2016 01:57:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/caffein/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fresh Coffee Fruits</title>
+      <link>https://freebiespic.com/photos/fresh-coffee-fruits/</link>
+      <pubDate>Tue, 19 Jul 2016 01:57:42 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/fresh-coffee-fruits/</guid>
+      <description>Fresh coffee fruit freebies picture.</description>
+    </item>
+    
+    <item>
+      <title>Robusta Coffee Fruit</title>
+      <link>https://freebiespic.com/photos/robusta-coffee-fruit/</link>
+      <pubDate>Mon, 18 Jul 2016 11:12:02 +0000</pubDate>
+      
+      <guid>https://freebiespic.com/photos/robusta-coffee-fruit/</guid>
+      <description>Robusta coffee fruit freebies picture andhigh resolution image.</description>
+    </item>
+    
+  </channel>
+</rss>
