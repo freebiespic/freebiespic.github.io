@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pot on Freebiespic</title>
+    <link>https://freebiespic.com/tags/pot/</link>
+    <description>Recent content in Pot on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 10:00:29 +0700</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/pot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>White striped flower</title>
+      <link>https://freebiespic.com/photos/white-striped-flower/</link>
+      <pubDate>Thu, 02 May 2019 10:00:29 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/photos/white-striped-flower/</guid>
+      <description>White striped flower background texture with space text area.</description>
+    </item>
+    
+    <item>
+      <title>Hanging jade plant succulent</title>
+      <link>https://freebiespic.com/photos/jade-plant-thumb/</link>
+      <pubDate>Thu, 02 May 2019 09:44:32 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/photos/jade-plant-thumb/</guid>
+      <description>Hanging jade plant succulent with concrete text space area.</description>
+    </item>
+    
+  </channel>
+</rss>

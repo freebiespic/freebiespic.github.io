@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://freebiespic.com/photos/white-striped-flower/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/jade-plant-thumb/</loc>
+    <lastmod>2019-05-02T09:44:32+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/autumn-colorful-leaves/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/fresh-cabbage-in-the-market/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/close-up-cabbage-in-the-market/</loc>
+    <lastmod>2019-05-02T09:15:04+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/cabbage-in-the-market/</loc>
+    <lastmod>2019-05-02T08:57:17+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/photos/various-sneakers-on-the-showcase-at-the-store/</loc>
     <lastmod>2019-04-30T22:39:59+07:00</lastmod>
   </url>
@@ -1181,7 +1211,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/agriculture/</loc>
-    <lastmod>2016-10-20T03:34:41+00:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1294,6 +1324,12 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/autumn/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/away/</loc>
     <lastmod>2017-07-10T13:22:12+00:00</lastmod>
     <priority>0</priority>
@@ -1307,7 +1343,13 @@
   
   <url>
     <loc>https://freebiespic.com/tags/background/</loc>
-    <lastmod>2018-10-18T00:09:35+07:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/categories/backgrounds/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1445,7 +1487,13 @@
   
   <url>
     <loc>https://freebiespic.com/tags/botanical/</loc>
-    <lastmod>2018-05-21T01:03:28+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/botany/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1499,7 +1547,7 @@
   
   <url>
     <loc>https://freebiespic.com/categories/business/</loc>
-    <lastmod>2017-06-26T13:15:35+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1512,6 +1560,12 @@
   <url>
     <loc>https://freebiespic.com/tags/buy/</loc>
     <lastmod>2016-07-05T01:21:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/cabbage/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1672,6 +1726,12 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/color/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/communication/</loc>
     <lastmod>2017-06-22T12:55:49+00:00</lastmod>
     <priority>0</priority>
@@ -1750,6 +1810,18 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/decoration/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/decorative/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/delicious/</loc>
     <lastmod>2017-06-23T02:15:26+00:00</lastmod>
     <priority>0</priority>
@@ -1782,6 +1854,12 @@
   <url>
     <loc>https://freebiespic.com/tags/detox/</loc>
     <lastmod>2016-10-16T00:46:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/diet/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1841,7 +1919,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/dry/</loc>
-    <lastmod>2016-11-15T07:57:04+00:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1854,6 +1932,18 @@
   <url>
     <loc>https://freebiespic.com/tags/earth/</loc>
     <lastmod>2017-06-24T09:00:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/eating/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/edible/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2002,6 +2092,12 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/flora/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/floral/</loc>
     <lastmod>2018-05-21T00:46:31+07:00</lastmod>
     <priority>0</priority>
@@ -2014,8 +2110,20 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/flowers/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/foliage/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/food/</loc>
-    <lastmod>2017-06-24T00:35:18+00:00</lastmod>
+    <lastmod>2019-05-02T09:15:04+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2045,13 +2153,13 @@
   
   <url>
     <loc>https://freebiespic.com/tags/forest/</loc>
-    <lastmod>2018-05-21T00:46:31+07:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://freebiespic.com/</loc>
-    <lastmod>2019-04-30T22:39:59+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2063,7 +2171,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/fresh/</loc>
-    <lastmod>2016-10-24T01:38:59+00:00</lastmod>
+    <lastmod>2019-05-02T09:15:04+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2087,7 +2195,13 @@
   
   <url>
     <loc>https://freebiespic.com/tags/garden/</loc>
-    <lastmod>2018-09-17T00:23:01+07:00</lastmod>
+    <lastmod>2019-05-02T09:15:04+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/gardening/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2117,7 +2231,13 @@
   
   <url>
     <loc>https://freebiespic.com/tags/gold/</loc>
-    <lastmod>2017-07-14T11:39:01+00:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/golden/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2147,7 +2267,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/green/</loc>
-    <lastmod>2018-10-18T00:09:35+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2165,7 +2285,25 @@
   
   <url>
     <loc>https://freebiespic.com/tags/grocery/</loc>
-    <lastmod>2016-07-05T01:21:08+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/ground/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/group/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/grow/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2218,6 +2356,12 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/harvest/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/health/</loc>
     <lastmod>2016-11-04T07:53:16+00:00</lastmod>
     <priority>0</priority>
@@ -2225,7 +2369,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/healthy/</loc>
-    <lastmod>2017-06-23T02:15:26+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2297,7 +2441,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/ingredient/</loc>
-    <lastmod>2016-10-22T04:05:55+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2393,7 +2537,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/leaf/</loc>
-    <lastmod>2018-10-18T00:09:35+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2405,7 +2549,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/leaves/</loc>
-    <lastmod>2018-10-18T00:09:35+07:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2417,7 +2561,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/lettuce/</loc>
-    <lastmod>2017-06-24T02:41:37+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2495,7 +2639,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/market/</loc>
-    <lastmod>2019-04-30T22:39:59+07:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2513,7 +2657,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/meal/</loc>
-    <lastmod>2017-06-23T22:27:59+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2596,14 +2740,20 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/natural/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/nature/</loc>
-    <lastmod>2017-07-20T07:41:24+00:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://freebiespic.com/categories/nature/</loc>
-    <lastmod>2018-10-18T00:09:35+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2621,7 +2771,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/nutrition/</loc>
-    <lastmod>2016-07-01T14:57:27+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2651,7 +2801,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/orange/</loc>
-    <lastmod>2019-04-30T22:18:54+07:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2663,13 +2813,25 @@
   
   <url>
     <loc>https://freebiespic.com/tags/organic/</loc>
-    <lastmod>2018-10-18T00:09:35+07:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/outdoor/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://freebiespic.com/tags/palm/</loc>
     <lastmod>2017-07-01T02:58:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/park/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2681,7 +2843,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/pattern/</loc>
-    <lastmod>2018-05-21T00:46:31+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2723,7 +2885,7 @@
   
   <url>
     <loc>https://freebiespic.com/photos/</loc>
-    <lastmod>2019-04-30T22:39:59+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2759,7 +2921,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/plant/</loc>
-    <lastmod>2018-05-21T01:03:28+07:00</lastmod>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2784,6 +2946,12 @@
   <url>
     <loc>https://freebiespic.com/tags/pork/</loc>
     <lastmod>2017-06-23T02:15:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/pot/</loc>
+    <lastmod>2019-05-02T10:00:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2825,7 +2993,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/raw/</loc>
-    <lastmod>2017-01-17T16:27:36+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2891,7 +3059,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/salad/</loc>
-    <lastmod>2017-06-23T02:15:26+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2926,6 +3094,12 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/season/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/seasoning/</loc>
     <lastmod>2016-10-22T04:05:55+00:00</lastmod>
     <priority>0</priority>
@@ -2934,6 +3108,12 @@
   <url>
     <loc>https://freebiespic.com/tags/seed/</loc>
     <lastmod>2016-10-16T00:30:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/selective-focus/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3101,13 +3281,19 @@
   
   <url>
     <loc>https://freebiespic.com/tags/succulent/</loc>
-    <lastmod>2018-05-21T01:03:28+07:00</lastmod>
+    <lastmod>2019-05-02T09:44:32+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://freebiespic.com/tags/sun/</loc>
     <lastmod>2017-06-26T14:45:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/sun-light/</loc>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3167,7 +3353,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/texture/</loc>
-    <lastmod>2018-09-17T00:23:01+07:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3262,14 +3448,26 @@
   </url>
   
   <url>
+    <loc>https://freebiespic.com/tags/vegan/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/tags/vegetable/</loc>
-    <lastmod>2017-06-23T02:15:26+00:00</lastmod>
+    <lastmod>2019-05-02T09:15:04+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://freebiespic.com/tags/vegetables/</loc>
     <lastmod>2017-06-24T02:41:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/tags/vegetarian/</loc>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3281,7 +3479,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/vitamin/</loc>
-    <lastmod>2016-10-16T00:34:49+00:00</lastmod>
+    <lastmod>2019-05-02T09:21:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3359,7 +3557,7 @@
   
   <url>
     <loc>https://freebiespic.com/tags/yellow/</loc>
-    <lastmod>2017-06-30T18:05:17+00:00</lastmod>
+    <lastmod>2019-05-02T09:29:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
