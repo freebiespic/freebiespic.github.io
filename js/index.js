@@ -60,6 +60,11 @@ $("#overlay").click(function() {
 $('#fbp300').flexImages({
   rowHeight: 300
 });
+
+$('#fbp350').flexImages({
+  rowHeight: 350
+});
+
 //  => Set max row and truncate
 $('#fbp120').flexImages({
   rowHeight: 150, truncate: 1, maxRows: 3
