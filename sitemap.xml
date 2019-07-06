@@ -3,6 +3,26 @@
 xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
+    <loc>https://freebiespic.com/photos/motocross-helmet/</loc>
+    <lastmod>2019-07-06T23:42:17+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2019/motocross-helmet.jpg</image:loc>
+        <image:title>Motocross helmet free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/grasstrack-motocross/</loc>
+    <lastmod>2019-07-06T22:23:46+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2019/grasstrack-motocross.jpg</image:loc>
+        <image:title>Grasstrack motocross free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/photos/leaves-of-norfolk-island-pine-tree/</loc>
     <lastmod>2019-05-22T16:13:53+07:00</lastmod>
     <image:image>

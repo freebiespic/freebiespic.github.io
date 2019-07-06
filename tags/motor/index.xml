@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motor on Freebiespic</title>
+    <link>https://freebiespic.com/tags/motor/</link>
+    <description>Recent content in Motor on Freebiespic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 23:42:17 +0700</lastBuildDate>
+    
+	<atom:link href="https://freebiespic.com/tags/motor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motocross helmet</title>
+      <link>https://freebiespic.com/photos/motocross-helmet/</link>
+      <pubDate>Sat, 06 Jul 2019 23:42:17 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/photos/motocross-helmet/</guid>
+      <description>Picture of motocross helmet in the rider of the grasstrack championship 2019 from Indonesia.</description>
+    </item>
+    
+    <item>
+      <title>Grasstrack motocross</title>
+      <link>https://freebiespic.com/photos/grasstrack-motocross/</link>
+      <pubDate>Sat, 06 Jul 2019 22:23:46 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/photos/grasstrack-motocross/</guid>
+      <description>Photograph of grasstrack motocross of the Bener Meriah championship 2019 from the Rembele circuit in Indonesia.</description>
+    </item>
+    
+  </channel>
+</rss>
