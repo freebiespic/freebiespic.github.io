@@ -1,3 +1,5 @@
+Sitemap: https://freebiespic.com/sitemap.xml
+
 User-agent: SemrushBot
 Disallow: /
 
