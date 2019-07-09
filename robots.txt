@@ -1,7 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /page/
+Disallow: /img/
+
 Sitemap: https://freebiespic.com/sitemap.xml
 
 User-agent: SemrushBot
-Disallow: /
-
 User-agent: AhrefsBot
 Disallow: /
