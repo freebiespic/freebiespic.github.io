@@ -345,8 +345,7 @@ button.gsc-search-button
 	background-image: linear-gradient(to top, rgba(0,0,0,0), rgba(23,23,23,1));
 	border-radius: 3px;
 	transition: .5s ease; opacity:0;
-}
-.image-over:hover .single-img-overlay {opacity: 1;}
+}.image-over:hover .single-img-overlay {opacity: 1;}
 
 
 /* -> Display Flex Image */
