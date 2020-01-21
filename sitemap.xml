@@ -3,6 +3,16 @@
 xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
+    <loc>https://freebiespic.com/photos/grafting-eggplant-with-turkey-berry/</loc>
+    <lastmod>2020-01-13T13:04:00+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2020/IMG_8366_grafting-eggplant-with-turkey-berry.jpg</image:loc>
+        <image:title>Grafting eggplant with Turkey berry tree free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/photos/motocross-helmet/</loc>
     <lastmod>2019-07-06T23:42:17+07:00</lastmod>
     <image:image>
@@ -2566,7 +2576,7 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <loc>https://freebiespic.com/photos/asian-mini-market-picture/</loc>
     <lastmod>2016-07-05T00:36:19+00:00</lastmod>
     <image:image>
-        <image:loc>https://freebiespic.com/images/2016/20111015-Supermarket-blurred-background.jpg</image:loc>
+        <image:loc>https://freebiespic.com/images/2016/07/20111015-Supermarket-blurred-background.jpg</image:loc>
         <image:title>Asian Mini Market Picture free images</image:title>
         <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
     </image:image>
