@@ -1,6 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
 xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://freebiespic.com/photos/bakso-meatball-with-noodles/</loc>
+    <lastmod>2020-02-20T21:44:01+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2020/IMG_6355_bakso-meatball-with-noodles-1024x683.jpg</image:loc>
+        <image:title>Bakso meatball soup with noodles Indonesian street food free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/two-eggplant-on-wooden-table/</loc>
+    <lastmod>2020-02-19T22:07:20+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2020/IMG_6225_two-eggplant-images-1024x683.jpg</image:loc>
+        <image:title>Two eggplant images on a wooden table free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/nettle-caterpillar/</loc>
+    <lastmod>2020-02-17T22:28:24+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2020/IMG_6172_nettle-caterpillar-images-1024x683.jpg</image:loc>
+        <image:title>Nettle caterpillar in coffee leaf free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
   
   <url>
     <loc>https://freebiespic.com/photos/grafting-eggplant-with-turkey-berry/</loc>

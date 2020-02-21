@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Freebiespic</title>
@@ -6,17 +6,116 @@
     <description>Recent content in Categories on Freebiespic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 19:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 21:44:01 +0700</lastBuildDate>
     
 	<atom:link href="https://freebiespic.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Food</title>
+      <link>https://freebiespic.com/categories/food/</link>
+      <pubDate>Thu, 20 Feb 2020 21:44:01 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Animals</title>
       <link>https://freebiespic.com/categories/animals/</link>
-      <pubDate>Fri, 14 Jul 2017 19:59:02 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2020 22:28:24 +0700</pubDate>
       
       <guid>https://freebiespic.com/categories/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://freebiespic.com/categories/nature/</link>
+      <pubDate>Mon, 13 Jan 2020 13:04:00 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://freebiespic.com/categories/sport/</link>
+      <pubDate>Sat, 06 Jul 2019 22:23:46 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://freebiespic.com/categories/travel/</link>
+      <pubDate>Wed, 22 May 2019 15:51:59 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://freebiespic.com/categories/health/</link>
+      <pubDate>Wed, 22 May 2019 15:37:50 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background</title>
+      <link>https://freebiespic.com/categories/background/</link>
+      <pubDate>Thu, 16 May 2019 20:10:19 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backgrounds</title>
+      <link>https://freebiespic.com/categories/backgrounds/</link>
+      <pubDate>Thu, 16 May 2019 20:10:19 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/backgrounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer</title>
+      <link>https://freebiespic.com/categories/computer/</link>
+      <pubDate>Mon, 13 May 2019 21:04:43 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>https://freebiespic.com/categories/industry/</link>
+      <pubDate>Sat, 04 May 2019 12:26:58 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://freebiespic.com/categories/business/</link>
+      <pubDate>Thu, 02 May 2019 09:21:59 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://freebiespic.com/categories/fashion/</link>
+      <pubDate>Tue, 30 Apr 2019 22:39:59 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/fashion/</guid>
       <description></description>
     </item>
     
@@ -39,92 +138,11 @@
     </item>
     
     <item>
-      <title>Background</title>
-      <link>https://freebiespic.com/categories/background/</link>
-      <pubDate>Thu, 03 Nov 2016 01:02:25 +0000</pubDate>
-      
-      <guid>https://freebiespic.com/categories/background/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backgrounds</title>
-      <link>https://freebiespic.com/categories/backgrounds/</link>
-      <pubDate>Thu, 16 May 2019 20:10:19 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/backgrounds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://freebiespic.com/categories/business/</link>
-      <pubDate>Thu, 02 May 2019 09:21:59 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer</title>
-      <link>https://freebiespic.com/categories/computer/</link>
-      <pubDate>Mon, 13 May 2019 21:04:43 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/computer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fashion</title>
-      <link>https://freebiespic.com/categories/fashion/</link>
-      <pubDate>Tue, 30 Apr 2019 22:39:59 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>https://freebiespic.com/categories/food/</link>
-      <pubDate>Mon, 13 Jan 2020 13:04:00 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>https://freebiespic.com/categories/health/</link>
-      <pubDate>Wed, 22 May 2019 15:37:50 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Industrial</title>
       <link>https://freebiespic.com/categories/industrial/</link>
       <pubDate>Wed, 28 Jun 2017 02:28:49 +0000</pubDate>
       
       <guid>https://freebiespic.com/categories/industrial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry</title>
-      <link>https://freebiespic.com/categories/industry/</link>
-      <pubDate>Sat, 04 May 2019 12:26:58 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature</title>
-      <link>https://freebiespic.com/categories/nature/</link>
-      <pubDate>Wed, 22 May 2019 16:13:53 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/nature/</guid>
       <description></description>
     </item>
     
@@ -138,29 +156,11 @@
     </item>
     
     <item>
-      <title>Sport</title>
-      <link>https://freebiespic.com/categories/sport/</link>
-      <pubDate>Sat, 06 Jul 2019 22:23:46 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/sport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Technology</title>
       <link>https://freebiespic.com/categories/technology/</link>
       <pubDate>Thu, 22 Jun 2017 12:55:49 +0000</pubDate>
       
       <guid>https://freebiespic.com/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://freebiespic.com/categories/travel/</link>
-      <pubDate>Wed, 22 May 2019 15:51:59 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/travel/</guid>
       <description></description>
     </item>
     
