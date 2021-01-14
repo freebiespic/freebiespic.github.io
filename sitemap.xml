@@ -2,6 +2,16 @@
 xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
+    <loc>https://freebiespic.com/photos/girl-picking-ripe-arabica-coffee/</loc>
+    <lastmod>2020-11-12T13:50:44+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2020/IMG_7491_Girl-picking-ripe-arabica-coffee-cherries_1024px.jpg</image:loc>
+        <image:title>Girl picking ripe arabica coffee cherries free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
     <loc>https://freebiespic.com/photos/strawberries-grown-in-the-mulch/</loc>
     <lastmod>2020-08-12T14:52:50+07:00</lastmod>
     <image:image>
@@ -27,6 +37,16 @@ xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <image:image>
         <image:loc>https://freebiespic.com/images/2020/IMG_6678_Closeup-strawberries-grown-in-the-mulch-plastic_1024px.jpg</image:loc>
         <image:title>Closeup strawberries grown in the mulch plastic free images</image:title>
+        <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://freebiespic.com/photos/close-up-fresh-strawberries-are-displayed-on-a-fruit-basket/</loc>
+    <lastmod>2020-04-14T14:26:52+07:00</lastmod>
+    <image:image>
+        <image:loc>https://freebiespic.com/images/2020/IMG_6661_Close-up-fresh-strawberries-are-displayed-on-a-fruit-basket_1024px.jpg</image:loc>
+        <image:title>Close up fresh strawberries are displayed on a fruit basket free images</image:title>
         <image:license>https://creativecommons.org/licenses/publicdomain/</image:license>
     </image:image>
   </url>
