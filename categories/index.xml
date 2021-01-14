@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Freebiespic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Feb 2020 21:44:01 +0700</lastBuildDate><atom:link href="https://freebiespic.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 14:52:50 +0700</lastBuildDate><atom:link href="https://freebiespic.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture</title>
+      <link>https://freebiespic.com/categories/architecture/</link>
+      <pubDate>Wed, 12 Aug 2020 14:52:50 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Food</title>
       <link>https://freebiespic.com/categories/food/</link>
-      <pubDate>Thu, 20 Feb 2020 21:44:01 +0700</pubDate>
+      <pubDate>Sat, 11 Jul 2020 14:27:44 +0200</pubDate>
       
       <guid>https://freebiespic.com/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://freebiespic.com/categories/people/</link>
+      <pubDate>Sat, 14 Mar 2020 14:26:24 +0700</pubDate>
+      
+      <guid>https://freebiespic.com/categories/people/</guid>
       <description></description>
     </item>
     
@@ -107,15 +125,6 @@
     </item>
     
     <item>
-      <title>Architecture</title>
-      <link>https://freebiespic.com/categories/architecture/</link>
-      <pubDate>Fri, 04 May 2018 20:44:17 +0700</pubDate>
-      
-      <guid>https://freebiespic.com/categories/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Art</title>
       <link>https://freebiespic.com/categories/art/</link>
       <pubDate>Fri, 30 Jun 2017 04:07:26 +0000</pubDate>
@@ -130,15 +139,6 @@
       <pubDate>Wed, 28 Jun 2017 02:28:49 +0000</pubDate>
       
       <guid>https://freebiespic.com/categories/industrial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://freebiespic.com/categories/people/</link>
-      <pubDate>Sun, 25 Jun 2017 02:08:30 +0000</pubDate>
-      
-      <guid>https://freebiespic.com/categories/people/</guid>
       <description></description>
     </item>
     
