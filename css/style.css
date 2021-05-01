@@ -356,12 +356,12 @@ button.gsc-search-button {
 
 /* Lozad a lazy loading */
 
-.fade-lozad {
-	animation-name: lozad;
+.lozad {
+	animation-name: fadel;
 	animation-duration: 2s;
 }
 
-@keyframes lozad{
+@keyframes fadel{
 	from {
 		opacity: 0;
 	}
