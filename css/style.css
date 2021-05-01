@@ -354,6 +354,23 @@ button.gsc-search-button {
     }
 }
 
+/* Lozad a lazy loading */
+
+.fade-lozad {
+	animation-name: lozad;
+	animation-duration: 2s;
+}
+
+@keyframes lozad{
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
 /* HERO */
 
 #hero {

@@ -79,3 +79,13 @@ xyz.addEventListener.onWheel(event: WheelEvent): void {
 	this.widgetsContent.nativeElement.scrollLeft += event.deltaY;
 	event.preventDefault();
 };
+
+// Initialize library
+lozad('.lozad', {
+    load: function(el) {
+        el.src = el.dataset.src;
+        el.onload = function() {
+            el.classList.add('fade-lozad')
+        }
+    }
+}).observe()
